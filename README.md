@@ -54,7 +54,6 @@ L'algorithme implémenté dans ce projet permet au robot de naviguer à travers 
    ```bash
    git clone https://github.com/yourusername/lego-maze-robot.git
 
-   Exécutez le programme principal sur l'EV3 :
 2. Copiez le code et exécutez le programme principal sur l'EV3:
    ```bash
    python3 main.py
